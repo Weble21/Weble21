@@ -17,7 +17,7 @@
 
 🏅 Algorithm. 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuna1do)](https://solved.ac/yuna1do/)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdk4270)](https://solved.ac/kdk4270/)  
 
 
 
